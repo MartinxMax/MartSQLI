@@ -1,6 +1,6 @@
   <div align="center">
 <p align="center">
- <img title="MartSQLI" src=`'`https://img.shields.io/badge/MartSQLI-1.0.0-brightgreen.svg' />
+ <img title="MartSQLI" src='https://img.shields.io/badge/MartSQLI-1.0.0-brightgreen.svg' />
  <img title="MartSQLI" src='https://img.shields.io/badge/Python-3.9-yellow.svg' />
   <img title="MartSQLI" src='https://img.shields.io/badge/HackerTool-x' />
  <img title="MartSQLI" src='https://img.shields.io/static/v1?label=Author&message=@Martin&color=red'/>
